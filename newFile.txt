@@ -3,3 +3,6 @@ dev branch change
 dev1 modify
 master modify
 dev1 modify2
+dev1 modify3
+dev1 modify4
+master modify1
